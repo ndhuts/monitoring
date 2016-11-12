@@ -1,5 +1,2 @@
 # monitoring
-Project monitoring Pertamina
-tes 1
-tes 2
-tes 3
+Project Monitoring Pertamina
